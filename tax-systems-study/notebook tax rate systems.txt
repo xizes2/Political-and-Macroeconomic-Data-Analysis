@@ -1,0 +1,22 @@
+sources:
+www.tradingeconomics.com
+www.taxfoundation.org
+www.wikipedia.com
+www.valorinveste.globo.com
+www.contabilizei.com.br
+www.oecd.org
+www.worldbank.org
+www2.deloitte.com/content/dam/Deloitte/cn/Documents/international-business-support/deloitte-cn-ibs-canada-int-tax-en-2018.pdf
+
+
+Objective: This study aims to show the general lines of the tax system adopted presently in the analized countries in order to see where the money of the 
+	   public budget comes from, taxwise.
+
+Analized Countries: Brazil, Russia, India, China, S. Africa, EUA, Canada, Mexico, Argentina, Germany, Israel, France, Portugal, Spain, Poland, UK,
+		    Cingapore, Japan, Vietnam.
+
+Disclaimer: Many of the countries analyzed have different tax systems and specificities what makes a perfectly equal comparison almost imposible (if not).
+	    That does not invalid comparison between them in a macro level.
+
+Anotações pessoais: fazer um heatmap mostrando a regressividade dos sistemas de taxação.
+	    
